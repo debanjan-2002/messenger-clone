@@ -91,7 +91,7 @@ const SettingsModal = ({
                                         src={
                                             image ||
                                             currentUser?.image ||
-                                            "/images/placeholder.jpg"
+                                            "/images/placeholder.png"
                                         }
                                         alt="Avatar"
                                     />
