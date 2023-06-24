@@ -1,4 +1,4 @@
-# Facebook Messenger Clone
+# Messenger App
 
 ## Live Link
 
